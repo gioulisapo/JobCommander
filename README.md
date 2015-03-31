@@ -16,4 +16,5 @@ When first called jobCommander Creates a jobExecutorServer. Job Commander then c
 <li><strong>MemSemHandle.h/MemSemHandle.c</strong><p>All functions necessary by semaphores</p></li>
 <li><strong>queue.c/queue.h</strong><p>Implemetation of fifo queue</p></li>
 <li><strong>jobCommander.c</strong><p>Job Commander implementation</p></li>
+<li><strong>rmsem.sh</strong><p>Community bash script, deleting all semaphores in case of a unhealthy program termination</p></li>
 </ul>
