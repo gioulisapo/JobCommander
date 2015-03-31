@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 for i in ${*}
 	do
@@ -9,3 +9,4 @@ for i in ${*}
 		done <$i
 	done
 echo
+	

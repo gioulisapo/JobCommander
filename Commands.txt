@@ -1,0 +1,6 @@
+find /usr
+wget http://releases.ubuntu.com/raring/ubuntu-13.04-server-amd64.iso
+ls
+cat Commands.txt
+
+

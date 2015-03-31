@@ -1,4 +1,4 @@
-#!bin/bash
+#!/bin/bash
 
 var="$(./jobCommander poll running)"
 rem="Processes running in system"
